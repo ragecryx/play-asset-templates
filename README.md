@@ -1,6 +1,10 @@
 # play-asset-templates
 Asset templates for Google Play store. Inkscape SVG templates.
 
+Tools that might also help:
+
+- [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/index.html)
+
 ## What's Required
 
 This is just a quick reminder and can be subject to change.
